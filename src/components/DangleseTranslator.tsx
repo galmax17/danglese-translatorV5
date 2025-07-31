@@ -5,6 +5,7 @@ const phraseMap: Record<string, string> = {
   "wee": "small",
   "buttoned up": "carefully planned",
   "extraneous": "irrelevant",
+  "Soup to nuts": "from beginning to end",
 };
 
 function translate(input: string, toEnglish: boolean): string {
